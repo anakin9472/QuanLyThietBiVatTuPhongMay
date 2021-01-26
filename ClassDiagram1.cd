@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QuanLyPhongMay.ApplicationSoftware" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ApplicationSoftware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.AbstractDatabase" Collapsed="true">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.Database&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAABAAAAAAAACAAAAAAAAAAAAAAAAABAACAg=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.Log" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Devices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.Devices" Collapsed="true">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACCAAAAAAABQACDABQEAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Devices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.Lab" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgCAAAAAAABAAEAAAEAIOAAAEAQ=</HashCode>
+      <FileName>Lab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.LabIncharge" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAABAAAAAIAAAAIAAAAQAAAEAAAAAAAAAAAAAAGA=</HashCode>
+      <FileName>LabIncharge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.LabInstructor" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAIAAAAQAiAAgAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>LabInstructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.LabTasks" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAIAAAACCAAAA=</HashCode>
+      <FileName>LabTasks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.PC" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAgABAAAABAgAAAAAAAAAAAQAQAAAAA=</HashCode>
+      <FileName>PC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.Server" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAgAAAAAAAAAFAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.Software" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Software.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.Student" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.SystemSoftWare" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SystemSoftWare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.Teacher" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyPhongMay.MyEventArgs" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Lab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="QuanLyPhongMay.Kieudatabase" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQ=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QuanLyPhongMay.Level" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>LabIncharge.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QuanLyPhongMay.CPU" Collapsed="true">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABQAAQAAAAAAAAAAAAQ=</HashCode>
+      <FileName>PC.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QuanLyPhongMay.RAM" Collapsed="true">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wCsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PC.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QuanLyPhongMay.CPU_S" Collapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QuanLyPhongMay.RAM_S" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

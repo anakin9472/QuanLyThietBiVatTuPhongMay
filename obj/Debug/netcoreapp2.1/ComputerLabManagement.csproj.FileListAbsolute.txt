@@ -1,0 +1,48 @@
+D:\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.csprojAssemblyReference.cache
+D:\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.csproj.CoreCompileInputs.cache
+D:\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.AssemblyInfoInputs.cache
+D:\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.AssemblyInfo.cs
+D:\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.deps.json
+D:\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.runtimeconfig.json
+D:\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.runtimeconfig.dev.json
+D:\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.dll
+D:\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.pdb
+D:\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.dll
+D:\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.pdb
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.deps.json
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.runtimeconfig.json
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.runtimeconfig.dev.json
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.dll
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.pdb
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.csprojAssemblyReference.cache
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.AssemblyInfoInputs.cache
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.AssemblyInfo.cs
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.csproj.CoreCompileInputs.cache
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.dll
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.pdb
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.genruntimeconfig.cache
+D:\OOP\ComputerLabManagement\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.genruntimeconfig.cache
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.deps.json
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.runtimeconfig.json
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.runtimeconfig.dev.json
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.dll
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.pdb
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.csprojAssemblyReference.cache
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.AssemblyInfoInputs.cache
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.AssemblyInfo.cs
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.csproj.CoreCompileInputs.cache
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.dll
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.pdb
+D:\HOC KY I 2020-21\OOP\ComputerLabManagement - Copy\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.genruntimeconfig.cache
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.deps.json
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.runtimeconfig.json
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.runtimeconfig.dev.json
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.dll
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\bin\Debug\netcoreapp2.1\ComputerLabManagement.pdb
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.csprojAssemblyReference.cache
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.AssemblyInfoInputs.cache
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.AssemblyInfo.cs
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.csproj.CoreCompileInputs.cache
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.dll
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.pdb
+D:\HOC KY I 2020-21\OOP\QuanLyMayTinh_BanGanHoanChinh\ComputerLabManagement\obj\Debug\netcoreapp2.1\ComputerLabManagement.genruntimeconfig.cache
